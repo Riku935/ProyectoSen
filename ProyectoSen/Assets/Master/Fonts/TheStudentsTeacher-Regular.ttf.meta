@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: afc91b1c500b1f44fad9ef79a3ba453a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - The Students Teacher
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 86e30848b9ae9df439b69068702f3b96, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
